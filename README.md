@@ -1,5 +1,5 @@
 # hello-world
-Learning GitHub, description here.
+Learning GitHub! :)
 
 Here's info about this cool tutorial! Neat!
 
